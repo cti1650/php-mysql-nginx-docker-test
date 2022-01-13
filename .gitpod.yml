@@ -1,2 +1,2 @@
 tasks:
-- command: docker-compose up -d && echo 127.0.0.1:8080
+- command: docker-compose up -d && echo "http://127.0.0.1:8080/ or http://localhost:8080/"
